@@ -1,1 +1,1 @@
-Update version 1.0-SNAPSHOT
+Update version 2.0-SNAPSHOT
